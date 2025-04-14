@@ -1,0 +1,23 @@
+# Python bytecode
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+
+# Distribution files
+build/
+dist/
+*.egg-info/
+
+# Dependency management files
+*.log
+*.swp
+
+# Configuration and metadata files
+*.toml
+*.cfg
+*.json
