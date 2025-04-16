@@ -1,5 +1,8 @@
 # Easy Image Converter
 
+[![PyPI version](https://img.shields.io/pypi/v/bulkimgconvert.svg)](https://pypi.org/project/bulkimgconvert/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ## 📷 Overview
 
 **Easy Image Converter** is a powerful command-line interface (CLI) tool that allows you to quickly and easily bulk convert and resize image files. Whether you're a developer, designer, or simply someone who works with images often, this tool helps automate image processing tasks, making it faster, simpler, and more efficient.
@@ -15,6 +18,7 @@ With Easy Image Converter, you can convert images to different formats (e.g., JP
 - **Compression**: Control the output quality of images to reduce file sizes, especially for web usage or storage optimization.
 - **Progress Bar**: Visual progress indication while converting and resizing images using the `tqdm` library.
 - **Easy to Use**: Accessible through the command line, no need for complicated software or manual image editing.
+
 
 ---
 
