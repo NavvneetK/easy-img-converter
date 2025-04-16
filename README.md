@@ -28,7 +28,7 @@ With Easy Image Converter, you can convert images to different formats (e.g., JP
 To install the **Easy Image Converter** package, simply run the following command in your terminal:
 
 ```bash
-pip install bulkimgconverter
+pip install bulkimgconvert
 ```
 
 ## 2. Install from Source
