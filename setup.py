@@ -18,6 +18,7 @@ setup(
             'bulkimgconvert=bulkimgconvert.main:main',  # Calls the `main` function in `main.py` when `bulkimgconvert` is run in the CLI
         ],
     },
+    license="MIT",  # Specify the license type
     classifiers=[  # Classify your package for PyPI
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
@@ -25,4 +26,5 @@ setup(
     ],
     python_requires='>=3.6',  # Minimum Python version required
     include_package_data=True,  # To include any files defined in MANIFEST.in
+    
 )

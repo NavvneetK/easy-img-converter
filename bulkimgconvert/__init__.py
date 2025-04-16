@@ -1,4 +1,3 @@
-# __init__.py
 
 from .converter import convert_images  # Import the convert_images function from the local converter.py
 
